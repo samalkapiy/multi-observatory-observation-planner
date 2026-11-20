@@ -19,8 +19,6 @@ multi_mission_observation_planner/
 
 ## Setup
 
-Python 3.10+ is recommended.
-
 ```bash
 # Create a Conda environment
 conda create -n astro_project python=3.11
@@ -86,6 +84,7 @@ This will open a dashboard where the user will be able to enter input parameters
 pytest -q
 ```
 ## Citing and Acknowledgement:
-Please cite my work : 10.5281/zenodo.24407149 when using this code. 
+If you use this code, please cite the following reference:
+DOI: 10.5281/zenodo.24407149 
 
 Thank you.
