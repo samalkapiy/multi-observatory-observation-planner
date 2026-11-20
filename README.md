@@ -74,7 +74,7 @@ conda activate streamlit_env
 #install the necessary libraires to run the dashboard script
 python -m pip install streamlit plotly requests pandas
 
-#in a separate terminal cd to where the script are in.activate the streamlit_env envrionment. Make sure FastAPI is already running. Type:
+#In a separate terminal cd to where the script are in.activate the streamlit_env envrionment. Make sure FastAPI is already running. Type:
 streamlit run dashboard.py
 ```
 
