@@ -86,6 +86,6 @@ This will open a dashboard where the user will be able to enter input parameters
 pytest -q
 ```
 ## Citing and Acknowledgement:
-Please cite my work when using this code. 
+Please cite my work : 10.5281/zenodo.24407149 when using this code. 
 
 Thank you.
