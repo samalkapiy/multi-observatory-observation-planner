@@ -85,6 +85,6 @@ pytest -q
 ```
 ## Citing and Acknowledgement:
 If you use this code, please cite the following reference:
-DOI: 10.5281/zenodo.24407149 
+DOI: [10.5281/zenodo.24407149](https://zenodo.org/records/24407149) 
 
 Thank you.
